@@ -1,0 +1,3 @@
+[submodule "STM3240G-EVAL-TensorFlow-Hello-World"]
+	path = STM3240G-EVAL-TensorFlow-Hello-World
+	url = https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-Hello-World
